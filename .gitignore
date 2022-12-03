@@ -1,0 +1,6 @@
+# Intellij IDEA
+.idea/*
+
+# Java
+*/target/*
+*/src/test/*
