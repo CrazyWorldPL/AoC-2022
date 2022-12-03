@@ -31,7 +31,7 @@ public class Main {
         System.out.println("---------------- Part 1 ----------------");
         System.out.println("Most calories: " + Collections.max(caloriesList));
         System.out.println("----------------------------------------");
-        System.out.println("");
+        System.out.println(System.getProperty("line.separator"));
 
         Collections.sort(caloriesList);
         Collections.reverse(caloriesList);
